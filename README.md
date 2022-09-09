@@ -1,1 +1,1 @@
-# Task-1-Data-Science-Internship
+# Data-Science-Internship-Tasks
